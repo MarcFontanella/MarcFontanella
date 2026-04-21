@@ -14,3 +14,7 @@
 
 **Ferramentas de desenvolvimento**
 
+[![Linkedin](https://img.shields.io/badge/-Marcelo_E_Fontanella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marcelo-eduardo-fontanella-14464721a/)
+[![Gmail Badge](https://img.shields.io/badge/-marcelo.fontanella@acad.ufsm.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.fontanella@acad.ufsm.br
+)](mailto:marcelo.fontanella@acad.ufsm.br)
+[![GitHub](https://img.shields.io/github/followers/MarcFontanella?label=follow&style=social)](https://github.com/MarcFontanella)
