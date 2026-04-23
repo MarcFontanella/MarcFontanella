@@ -16,6 +16,7 @@
 ![Visual Studio Code]()
 ![Arduino IDE](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Zelio Soft](https://img.shields.io/badge/Zelio_Soft-Schneider_Electric-blue?logo=siemens&style=flat)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 
 ## Formas de Contato
