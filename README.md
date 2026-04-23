@@ -14,6 +14,8 @@
 
 **Ferramentas de desenvolvimento**
 ![Visual Studio Code]()
+![Arduino IDE]()
+![Zelio Soft]()
 
 
 ## Formas de Contato
