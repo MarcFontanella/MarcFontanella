@@ -14,7 +14,7 @@
 
 **Ferramentas de desenvolvimento**
 ![Visual Studio Code]()
-![Arduino IDE]()
+![Arduino IDE](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Zelio Soft]()
 
 
