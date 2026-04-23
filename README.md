@@ -15,7 +15,7 @@
 **Ferramentas de desenvolvimento**
 ![Visual Studio Code]()
 ![Arduino IDE](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Zelio Soft]()
+![Zelio Soft](https://img.shields.io/badge/Zelio_Soft-Schneider_Electric-blue?logo=siemens&style=flat)
 
 
 ## Formas de Contato
