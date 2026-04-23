@@ -16,7 +16,7 @@
 ![Visual Studio Code]()
 
 
-**Formas de Contato**
+##Formas de Contato##
 
 [![Linkedin](https://img.shields.io/badge/-Marcelo_E_Fontanella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marcelo-eduardo-fontanella-14464721a/)
 [![Gmail Badge](https://img.shields.io/badge/-marcelo.fontanella@acad.ufsm.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.fontanella@acad.ufsm.br
